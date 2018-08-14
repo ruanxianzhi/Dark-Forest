@@ -3,7 +3,7 @@ A rapid game prototype
 
 
 <p>Members:</p>
-<ul>Buting Ma(yidimu),</ul>
+<ul>Buting Ma,</ul>
 <ul>Xianzhi Ruan ,</ul>
 <ul>Jie Wang </ul>
 <ul> Yihan Li </ul>
